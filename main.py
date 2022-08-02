@@ -26,6 +26,4 @@ time.sleep(5)
 play=driver.find_element("xpath", '/html/body/div[1]/div/div[2]/section[3]/div[2]/ul/li/div/button/span[2]').click()
 time.sleep(5)
 
-des=driver.find_element("xpath", '/html/body/div[1]/div/div[2]/section[1]/div[1]/div[1]/div[2]/div/div[2]/div[1]').screenshot()
-time.sleep(5)
 
